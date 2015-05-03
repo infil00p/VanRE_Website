@@ -1,13 +1,13 @@
-Grayscale Jekyll theme
+VanRE Jekyll theme
 =========================
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+Jekyll theme based on the [Greyscale Jekyll theme](https://jeromelachaud.github.io/greyscale-theme) which is based on the [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
 
 ## Demo
 View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+## Acknowledgements
+Vancouver photo by [Ajith Rajeswari](http://commons.wikimedia.org/wiki/File:Vancouver_City_Night_2_by_ajithrajeswari.jpg)
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
