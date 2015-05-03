@@ -8,6 +8,7 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscal
 
 ## Acknowledgements
 Vancouver photo by [Ajith Rajeswari](http://commons.wikimedia.org/wiki/File:Vancouver_City_Night_2_by_ajithrajeswari.jpg)
+
 iPhone Photo couretsy of the [Berlin Resistance](http://besmurf.de)
 
 Documentation
